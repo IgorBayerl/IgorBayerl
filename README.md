@@ -1,7 +1,5 @@
 ### Hi there, I'm Igor - [igorBayerl][website] 👋
 
-<!--
-**IgorBayerl/IgorBayerl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## I'm a Studant, athlete, Developer, and tech enthusiast!
 - 🔭 I’m currently working on a personal project about digital menu !

@@ -2,7 +2,7 @@
 
 
 ## I'm a Studant, athlete, Developer, and tech enthusiast!
-- 🔭 I’m currently working on a personal project about digital menu !
+- 🔭 I’m currently working on a personal project about digital restaurant menu !
 - 🌱 I’m currently learning everything 
 - ⚡ Fun fact: I love to draw and play video games
 

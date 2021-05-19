@@ -41,4 +41,4 @@
 [website]: https://igorbayerl.github.io/Portfolio/
 [youtube]: https://www.youtube.com/channel/UC9MalIBzNg6C7Dy1VeT8ksQ?view_as=subscriber
 [instagram]: https://www.instagram.com/igorbayerl/?hl=pt-br
-[linkedin]: https://www.linkedin.com/notifications/
+[linkedin]: https://www.linkedin.com/in/igorbayerl/

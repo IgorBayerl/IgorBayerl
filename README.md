@@ -2,7 +2,7 @@
 
 
 ## I'm a Student, Software Developer, and tech enthusiast!
-- 🔭 I’m currently in one of the biggest tech companies of brazil!
+- 🔭 I’m currently in the biggest tech companies of brazil!
 - ⚡ Fun fact: I love to draw and play video games
 
 <div>

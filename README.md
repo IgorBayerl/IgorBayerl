@@ -1,9 +1,8 @@
 ### Hi there, I'm Igor 👋
 
 
-## I'm a Student, Software Developer, and tech enthusiast!
-- 🔭 I’m currently in the biggest tech companies of brazil!
-- ⚡ Fun fact: I love to draw and play video games
+## Software Engineer, and tech enthusiast!
+- 🔭 Currently living in Ireland and looking for new challenges
 
 <div>
   <a href="https://github.com/IgorBayerl">

@@ -2,7 +2,7 @@
 
 
 ## Software Engineer, and tech enthusiast!
-- 🔭 Currently living in Ireland and looking for new challenges
+- 🔭 Currently living in Germany
 
   
  <div style="display: inline_block"><br>
